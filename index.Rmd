@@ -197,14 +197,14 @@ L'argument utilisé : les données sont collectées de plusieurs sources étrang
 ## L'affaire Climategate
 ### Stupeur du côté des climatologues
 
-.reduite.center[![](img/Nature_editorial.png)]
+[.reduite.center[![](img/Nature_editorial.png)]](https://www.nature.com/articles/462545a)
 
 ---
 
 ## L'affaire Climategate
 ### Une fois l'affaire tassée, comment ouvrir les données ?
 
-.reduite.center[![](img/Nature_news.png)]
+[.reduite.center[![](img/Nature_news.png)]](https://www.nature.com/news/2010/100905/full/news.2010.448.html)
 
 ---
 
@@ -296,7 +296,7 @@ Le droit du producteur de bases de données ne peut faire obstacle à la réutil
 
 ### À l'origine de cette saisine CADA
 
-.reduite.center[![](img/MaDada.jpg)]
+[.reduite.center[![](img/MaDada.jpg)]](https://madada.fr/demande/donnees_relatives_a_la_concentra)
 
 ???
 Le cadre juridique est important mais je ne veux pas en faire l'alpha et l'oméga d'une politique sur les données de la recherche. Ainsi, la réutilisation libre ne dit rien des pratiques de citation chères à la communauté scientifique.
@@ -312,8 +312,8 @@ Le cadre juridique est important mais je ne veux pas en faire l'alpha et l'omég
 
 - Déclaration de Berlin (2003) sur le libre accès aux "données brutes" (ex. : CNRS)]
 
-.pull-right[
-![](img/PNSO.jpg)]
+[.pull-right[
+![](img/PNSO.jpg)]](https://www.ouvrirlascience.fr/plan-national-pour-la-science-ouverte/)
 
 ---
 class:center,inverse, middle
